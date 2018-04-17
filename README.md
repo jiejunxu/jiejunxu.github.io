@@ -1,3 +1,3 @@
 # jiejunxu.github.io
 
-My personal blog page
+My personal web page.
