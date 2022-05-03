@@ -103,6 +103,14 @@ img {
   max-width:100%;
 }
 
+.image-cropper {
+  width: 180px;
+  height: 180px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
 header {
   width:220px;
   float:left;
